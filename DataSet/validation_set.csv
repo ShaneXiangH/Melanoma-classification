@@ -1,0 +1,187 @@
+image_name,sex,age_approx,anatom_site_general_challenge,diagnosis,benign_malignant,target
+img_1,male,55.0,torso,nevus,benign,0
+img_2,female,25.0,lower extremity,unknown,benign,0
+img_3,male,60.0,lower extremity,unknown,benign,0
+img_4,female,75.0,torso,unknown,benign,0
+img_5,female,60.0,torso,unknown,benign,0
+img_6,male,50.0,torso,unknown,benign,0
+img_7,male,60.0,lower extremity,nevus,benign,0
+img_8,female,60.0,torso,unknown,benign,0
+img_9,female,30.0,torso,nevus,benign,0
+img_10,male,55.0,lower extremity,nevus,benign,0
+img_11,female,25.0,lower extremity,unknown,benign,0
+img_12,female,55.0,head/neck,nevus,benign,0
+img_13,male,60.0,torso,unknown,benign,0
+img_14,male,55.0,torso,unknown,benign,0
+img_15,male,65.0,lower extremity,unknown,benign,0
+img_16,male,70.0,lower extremity,nevus,benign,0
+img_17,female,45.0,torso,unknown,benign,0
+img_18,female,15.0,upper extremity,unknown,benign,0
+img_19,male,75.0,lower extremity,nevus,benign,0
+img_20,male,60.0,torso,unknown,benign,0
+img_21,female,45.0,torso,nevus,benign,0
+img_22,female,55.0,lower extremity,unknown,benign,0
+img_23,male,45.0,upper extremity,unknown,benign,0
+img_24,female,60.0,torso,nevus,benign,0
+img_25,male,25.0,torso,unknown,benign,0
+img_26,male,75.0,head/neck,unknown,benign,0
+img_27,female,85.0,torso,unknown,benign,0
+img_28,male,50.0,lower extremity,nevus,benign,0
+img_29,male,45.0,head/neck,unknown,benign,0
+img_30,female,25.0,lower extremity,unknown,benign,0
+img_31,female,55.0,lower extremity,unknown,benign,0
+img_32,male,50.0,torso,unknown,benign,0
+img_33,female,60.0,head/neck,unknown,benign,0
+img_34,female,45.0,torso,unknown,benign,0
+img_35,female,50.0,torso,unknown,benign,0
+img_36,male,30.0,torso,nevus,benign,0
+img_37,female,75.0,lower extremity,unknown,benign,0
+img_38,female,50.0,lower extremity,unknown,benign,0
+img_39,male,40.0,lower extremity,nevus,benign,0
+img_40,male,70.0,torso,unknown,benign,0
+img_41,female,25.0,lower extremity,unknown,benign,0
+img_42,female,50.0,lower extremity,unknown,benign,0
+img_43,female,65.0,upper extremity,nevus,benign,0
+img_44,male,45.0,torso,unknown,benign,0
+img_45,female,25.0,head/neck,unknown,benign,0
+img_46,female,40.0,upper extremity,unknown,benign,0
+img_47,male,35.0,lower extremity,unknown,benign,0
+img_48,male,55.0,torso,unknown,benign,0
+img_49,female,30.0,upper extremity,nevus,benign,0
+img_50,male,55.0,torso,unknown,benign,0
+img_51,male,25.0,torso,nevus,benign,0
+img_52,female,25.0,upper extremity,unknown,benign,0
+img_53,female,25.0,torso,unknown,benign,0
+img_54,female,45.0,torso,nevus,benign,0
+img_55,male,45.0,torso,unknown,benign,0
+img_56,male,75.0,torso,unknown,benign,0
+img_57,male,55.0,upper extremity,unknown,benign,0
+img_58,female,40.0,torso,unknown,benign,0
+img_59,female,50.0,,unknown,benign,0
+img_60,male,55.0,lower extremity,unknown,benign,0
+img_61,female,70.0,torso,nevus,benign,0
+img_62,female,50.0,torso,nevus,benign,0
+img_63,female,35.0,torso,nevus,benign,0
+img_64,female,60.0,lower extremity,unknown,benign,0
+img_65,female,50.0,upper extremity,unknown,benign,0
+img_66,female,60.0,torso,unknown,benign,0
+img_67,male,55.0,torso,unknown,benign,0
+img_68,female,50.0,torso,nevus,benign,0
+img_69,male,40.0,torso,nevus,benign,0
+img_70,male,50.0,torso,unknown,benign,0
+img_71,male,45.0,torso,unknown,benign,0
+img_72,female,90.0,torso,unknown,benign,0
+img_73,female,50.0,torso,unknown,benign,0
+img_74,female,60.0,upper extremity,unknown,benign,0
+img_75,female,45.0,torso,unknown,benign,0
+img_76,female,50.0,torso,unknown,benign,0
+img_77,male,50.0,lower extremity,unknown,benign,0
+img_78,female,35.0,torso,unknown,benign,0
+img_79,male,40.0,upper extremity,unknown,benign,0
+img_80,male,50.0,torso,unknown,benign,0
+img_81,male,45.0,torso,unknown,benign,0
+img_82,male,40.0,torso,unknown,benign,0
+img_83,male,45.0,head/neck,unknown,benign,0
+img_84,female,45.0,lower extremity,nevus,benign,0
+img_85,male,80.0,lower extremity,unknown,benign,0
+img_86,female,45.0,head/neck,seborrheic keratosis,benign,0
+img_87,female,55.0,head/neck,unknown,benign,0
+img_88,female,65.0,torso,unknown,benign,0
+img_89,male,40.0,lower extremity,unknown,benign,0
+img_90,female,50.0,torso,unknown,benign,0
+img_91,male,45.0,lower extremity,nevus,benign,0
+img_92,female,45.0,lower extremity,unknown,benign,0
+img_93,female,55.0,head/neck,unknown,benign,0
+img_94,male,65.0,upper extremity,melanoma,malignant,1
+img_95,male,75.0,torso,melanoma,malignant,1
+img_96,female,75.0,torso,melanoma,malignant,1
+img_97,male,25.0,torso,melanoma,malignant,1
+img_98,male,55.0,head/neck,melanoma,malignant,1
+img_99,male,55.0,torso,melanoma,malignant,1
+img_100,male,30.0,lower extremity,melanoma,malignant,1
+img_101,female,75.0,upper extremity,melanoma,malignant,1
+img_102,female,20.0,upper extremity,melanoma,malignant,1
+img_103,female,60.0,lower extremity,melanoma,malignant,1
+img_104,male,60.0,lower extremity,melanoma,malignant,1
+img_105,male,45.0,lower extremity,melanoma,malignant,1
+img_106,male,55.0,torso,melanoma,malignant,1
+img_107,male,65.0,torso,melanoma,malignant,1
+img_108,male,50.0,upper extremity,melanoma,malignant,1
+img_109,female,65.0,torso,melanoma,malignant,1
+img_110,male,65.0,head/neck,melanoma,malignant,1
+img_111,male,75.0,torso,melanoma,malignant,1
+img_112,male,55.0,torso,melanoma,malignant,1
+img_113,female,45.0,upper extremity,melanoma,malignant,1
+img_114,male,80.0,head/neck,melanoma,malignant,1
+img_115,male,40.0,lower extremity,melanoma,malignant,1
+img_116,female,35.0,head/neck,melanoma,malignant,1
+img_117,male,35.0,lower extremity,melanoma,malignant,1
+img_118,male,65.0,head/neck,melanoma,malignant,1
+img_119,male,80.0,upper extremity,melanoma,malignant,1
+img_120,male,30.0,lower extremity,melanoma,malignant,1
+img_121,female,55.0,torso,melanoma,malignant,1
+img_122,male,45.0,lower extremity,melanoma,malignant,1
+img_123,female,60.0,head/neck,melanoma,malignant,1
+img_124,male,65.0,torso,melanoma,malignant,1
+img_125,female,80.0,upper extremity,melanoma,malignant,1
+img_126,female,45.0,upper extremity,melanoma,malignant,1
+img_127,male,60.0,upper extremity,melanoma,malignant,1
+img_128,male,50.0,torso,melanoma,malignant,1
+img_129,male,60.0,torso,melanoma,malignant,1
+img_130,female,70.0,torso,melanoma,malignant,1
+img_131,female,40.0,lower extremity,melanoma,malignant,1
+img_132,male,45.0,lower extremity,melanoma,malignant,1
+img_133,male,50.0,upper extremity,melanoma,malignant,1
+img_134,female,50.0,torso,melanoma,malignant,1
+img_135,female,45.0,upper extremity,melanoma,malignant,1
+img_136,male,35.0,lower extremity,melanoma,malignant,1
+img_137,female,75.0,head/neck,melanoma,malignant,1
+img_138,male,70.0,torso,melanoma,malignant,1
+img_139,female,35.0,lower extremity,melanoma,malignant,1
+img_140,male,75.0,torso,melanoma,malignant,1
+img_141,female,50.0,lower extremity,melanoma,malignant,1
+img_142,male,60.0,torso,melanoma,malignant,1
+img_143,female,55.0,torso,melanoma,malignant,1
+img_144,female,55.0,upper extremity,melanoma,malignant,1
+img_145,male,45.0,upper extremity,melanoma,malignant,1
+img_146,male,70.0,torso,melanoma,malignant,1
+img_147,male,50.0,head/neck,melanoma,malignant,1
+img_148,female,75.0,torso,melanoma,malignant,1
+img_149,male,70.0,torso,melanoma,malignant,1
+img_150,male,55.0,upper extremity,melanoma,malignant,1
+img_151,female,40.0,upper extremity,melanoma,malignant,1
+img_152,male,50.0,upper extremity,melanoma,malignant,1
+img_153,male,75.0,torso,melanoma,malignant,1
+img_154,male,90.0,head/neck,melanoma,malignant,1
+img_155,female,30.0,palms/soles,melanoma,malignant,1
+img_156,male,75.0,head/neck,melanoma,malignant,1
+img_157,male,45.0,head/neck,melanoma,malignant,1
+img_158,female,40.0,upper extremity,melanoma,malignant,1
+img_159,male,80.0,torso,melanoma,malignant,1
+img_160,male,75.0,upper extremity,melanoma,malignant,1
+img_161,male,40.0,torso,melanoma,malignant,1
+img_162,male,80.0,torso,melanoma,malignant,1
+img_163,male,75.0,lower extremity,melanoma,malignant,1
+img_164,male,55.0,torso,melanoma,malignant,1
+img_165,male,50.0,lower extremity,melanoma,malignant,1
+img_166,male,60.0,upper extremity,melanoma,malignant,1
+img_167,female,80.0,torso,melanoma,malignant,1
+img_168,male,70.0,lower extremity,melanoma,malignant,1
+img_169,female,90.0,lower extremity,melanoma,malignant,1
+img_170,male,60.0,lower extremity,melanoma,malignant,1
+img_171,male,75.0,torso,melanoma,malignant,1
+img_172,female,35.0,lower extremity,melanoma,malignant,1
+img_173,male,25.0,torso,melanoma,malignant,1
+img_174,male,65.0,torso,melanoma,malignant,1
+img_175,male,45.0,torso,melanoma,malignant,1
+img_176,male,75.0,upper extremity,melanoma,malignant,1
+img_177,male,70.0,head/neck,melanoma,malignant,1
+img_178,male,90.0,upper extremity,melanoma,malignant,1
+img_179,male,60.0,lower extremity,melanoma,malignant,1
+img_180,male,75.0,torso,melanoma,malignant,1
+img_181,female,30.0,torso,melanoma,malignant,1
+img_182,male,50.0,upper extremity,melanoma,malignant,1
+img_183,male,85.0,torso,melanoma,malignant,1
+img_184,male,65.0,torso,melanoma,malignant,1
+img_185,female,60.0,torso,melanoma,malignant,1
+img_186,female,75.0,head/neck,melanoma,malignant,1

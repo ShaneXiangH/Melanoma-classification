@@ -1,0 +1,235 @@
+image_name,sex,age_approx,anatom_site_general_challenge
+img_1,male,35.0,upper extremity
+img_2,male,45.0,torso
+img_3,male,55.0,lower extremity
+img_4,female,40.0,oral/genital
+img_5,female,30.0,torso
+img_6,female,45.0,
+img_7,female,60.0,upper extremity
+img_8,female,45.0,lower extremity
+img_9,male,50.0,torso
+img_10,female,45.0,lower extremity
+img_11,male,65.0,torso
+img_12,female,40.0,lower extremity
+img_13,male,75.0,torso
+img_14,male,25.0,torso
+img_15,male,40.0,torso
+img_16,female,30.0,torso
+img_17,male,45.0,lower extremity
+img_18,male,50.0,lower extremity
+img_19,male,30.0,torso
+img_20,male,25.0,torso
+img_21,male,35.0,torso
+img_22,male,45.0,torso
+img_23,male,30.0,torso
+img_24,male,30.0,palms/soles
+img_25,female,40.0,lower extremity
+img_26,female,45.0,lower extremity
+img_27,female,45.0,lower extremity
+img_28,female,60.0,lower extremity
+img_29,male,70.0,torso
+img_30,female,40.0,torso
+img_31,male,45.0,torso
+img_32,male,60.0,torso
+img_33,female,40.0,lower extremity
+img_34,male,50.0,torso
+img_35,male,55.0,lower extremity
+img_36,female,35.0,upper extremity
+img_37,male,55.0,lower extremity
+img_38,male,50.0,upper extremity
+img_39,male,45.0,torso
+img_40,male,70.0,lower extremity
+img_41,female,65.0,upper extremity
+img_42,male,30.0,lower extremity
+img_43,female,45.0,torso
+img_44,female,55.0,head/neck
+img_45,female,65.0,torso
+img_46,female,45.0,torso
+img_47,male,70.0,torso
+img_48,female,50.0,torso
+img_49,male,45.0,torso
+img_50,female,70.0,head/neck
+img_51,male,45.0,upper extremity
+img_52,male,35.0,upper extremity
+img_53,male,70.0,lower extremity
+img_54,female,45.0,torso
+img_55,male,40.0,lower extremity
+img_56,female,60.0,torso
+img_57,female,25.0,torso
+img_58,female,35.0,torso
+img_59,male,65.0,torso
+img_60,female,35.0,lower extremity
+img_61,female,60.0,torso
+img_62,male,55.0,lower extremity
+img_63,male,40.0,lower extremity
+img_64,male,45.0,head/neck
+img_65,female,20.0,head/neck
+img_66,male,65.0,lower extremity
+img_67,female,35.0,lower extremity
+img_68,male,45.0,lower extremity
+img_69,female,30.0,torso
+img_70,male,40.0,torso
+img_71,female,55.0,lower extremity
+img_72,male,35.0,torso
+img_73,male,30.0,lower extremity
+img_74,male,75.0,upper extremity
+img_75,male,45.0,torso
+img_76,female,20.0,torso
+img_77,female,50.0,torso
+img_78,female,50.0,upper extremity
+img_79,male,60.0,torso
+img_80,female,65.0,lower extremity
+img_81,female,60.0,torso
+img_82,female,40.0,torso
+img_83,female,30.0,torso
+img_84,female,55.0,upper extremity
+img_85,male,65.0,upper extremity
+img_86,female,60.0,torso
+img_87,male,35.0,torso
+img_88,female,55.0,upper extremity
+img_89,female,35.0,torso
+img_90,male,65.0,lower extremity
+img_91,female,80.0,torso
+img_92,female,55.0,upper extremity
+img_93,male,45.0,torso
+img_94,female,35.0,torso
+img_95,male,70.0,head/neck
+img_96,male,75.0,torso
+img_97,male,45.0,head/neck
+img_98,male,60.0,torso
+img_99,male,50.0,upper extremity
+img_100,male,60.0,lower extremity
+img_101,male,45.0,torso
+img_102,male,65.0,upper extremity
+img_103,female,35.0,lower extremity
+img_104,female,25.0,torso
+img_105,female,55.0,torso
+img_106,female,55.0,head/neck
+img_107,female,25.0,torso
+img_108,female,55.0,torso
+img_109,male,75.0,torso
+img_110,male,45.0,torso
+img_111,female,40.0,head/neck
+img_112,female,35.0,torso
+img_113,male,45.0,torso
+img_114,male,55.0,upper extremity
+img_115,male,70.0,torso
+img_116,male,55.0,lower extremity
+img_117,male,50.0,torso
+img_118,male,75.0,head/neck
+img_119,male,70.0,torso
+img_120,male,60.0,upper extremity
+img_121,male,25.0,lower extremity
+img_122,male,80.0,head/neck
+img_123,female,60.0,lower extremity
+img_124,male,65.0,torso
+img_125,male,65.0,head/neck
+img_126,female,65.0,upper extremity
+img_127,male,75.0,head/neck
+img_128,male,75.0,upper extremity
+img_129,female,50.0,lower extremity
+img_130,male,70.0,torso
+img_131,male,60.0,head/neck
+img_132,female,35.0,torso
+img_133,male,60.0,lower extremity
+img_134,male,60.0,torso
+img_135,male,25.0,upper extremity
+img_136,male,20.0,lower extremity
+img_137,female,55.0,torso
+img_138,male,30.0,torso
+img_139,female,35.0,torso
+img_140,male,75.0,torso
+img_141,male,65.0,upper extremity
+img_142,male,55.0,torso
+img_143,female,70.0,torso
+img_144,male,65.0,torso
+img_145,female,65.0,head/neck
+img_146,female,65.0,upper extremity
+img_147,male,80.0,head/neck
+img_148,female,45.0,torso
+img_149,male,80.0,head/neck
+img_150,male,75.0,torso
+img_151,female,50.0,torso
+img_152,male,45.0,upper extremity
+img_153,male,60.0,lower extremity
+img_154,male,70.0,head/neck
+img_155,male,30.0,lower extremity
+img_156,male,30.0,upper extremity
+img_157,male,50.0,upper extremity
+img_158,male,80.0,
+img_159,male,25.0,upper extremity
+img_160,male,60.0,torso
+img_161,male,90.0,upper extremity
+img_162,male,50.0,upper extremity
+img_163,female,65.0,head/neck
+img_164,female,55.0,upper extremity
+img_165,female,80.0,torso
+img_166,male,30.0,torso
+img_167,male,70.0,torso
+img_168,female,45.0,torso
+img_169,female,55.0,torso
+img_170,female,80.0,lower extremity
+img_171,male,60.0,
+img_172,female,65.0,lower extremity
+img_173,male,35.0,lower extremity
+img_174,male,85.0,head/neck
+img_175,female,55.0,lower extremity
+img_176,female,55.0,torso
+img_177,male,70.0,lower extremity
+img_178,male,45.0,torso
+img_179,female,55.0,upper extremity
+img_180,male,70.0,torso
+img_181,female,65.0,lower extremity
+img_182,male,60.0,torso
+img_183,male,25.0,lower extremity
+img_184,male,50.0,torso
+img_185,female,40.0,torso
+img_186,male,55.0,
+img_187,male,65.0,head/neck
+img_188,male,90.0,torso
+img_189,female,25.0,torso
+img_190,female,65.0,torso
+img_191,male,75.0,torso
+img_192,female,45.0,torso
+img_193,male,50.0,torso
+img_194,female,15.0,head/neck
+img_195,male,65.0,lower extremity
+img_196,female,60.0,upper extremity
+img_197,female,30.0,torso
+img_198,male,55.0,lower extremity
+img_199,male,70.0,torso
+img_200,female,40.0,torso
+img_201,male,65.0,torso
+img_202,male,60.0,head/neck
+img_203,male,65.0,upper extremity
+img_204,female,45.0,lower extremity
+img_205,female,50.0,lower extremity
+img_206,male,75.0,torso
+img_207,male,40.0,lower extremity
+img_208,male,45.0,torso
+img_209,male,35.0,torso
+img_210,male,50.0,upper extremity
+img_211,male,70.0,torso
+img_212,female,60.0,lower extremity
+img_213,female,45.0,torso
+img_214,male,55.0,upper extremity
+img_215,male,85.0,palms/soles
+img_216,male,70.0,torso
+img_217,male,55.0,head/neck
+img_218,male,45.0,lower extremity
+img_219,male,75.0,torso
+img_220,female,55.0,head/neck
+img_221,male,75.0,lower extremity
+img_222,female,45.0,torso
+img_223,male,80.0,
+img_224,female,35.0,torso
+img_225,male,80.0,torso
+img_226,male,50.0,torso
+img_227,male,30.0,torso
+img_228,male,45.0,lower extremity
+img_229,female,55.0,lower extremity
+img_230,female,60.0,head/neck
+img_231,female,90.0,torso
+img_232,male,35.0,lower extremity
+img_233,male,60.0,upper extremity
+img_234,male,65.0,lower extremity
